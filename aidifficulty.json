@@ -1,6 +1,6 @@
 {
     "name": "Custom Deity",
-    "baseHappiness": 9,
+    "baseHappiness": 20,
     "extraHappinessPerLuxury": 0,
     "researchCostModifier": 1,
     "unitCostModifier": 1,
